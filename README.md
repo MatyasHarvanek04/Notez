@@ -1,5 +1,6 @@
 # Notez
 Just a small notepad app
 
-Ctrl + O = Open File
+## ShortCuts
+Ctrl + O = Open File <br/>
 Ctrl + S = Save File
