@@ -2,9 +2,9 @@
 Just a small notepad app
 
 ## ShortCuts
-Ctrl + O = Open File <br/>
-Ctrl + S = Save File <bt/>
-Ctrl + N = NewTab
+- Ctrl + O = Open File
+- Ctrl + S = Save File 
+- Ctrl + N = NewTab
 
 ## Features
 - MultiTab
